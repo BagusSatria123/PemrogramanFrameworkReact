@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "NIM": 1,
+      "id": 1614784673728,
+      "nama": "bagus satria",
+      "alamat": "sawojajar malang",
+      "hp": "1234",
+      "angkatan": "2021",
+      "status": "lulus"
+    },
+    {
+      "NIM": 1,
+      "id": 1614867434102,
+      "nama": "bagus123",
+      "alamat": "Sawojajar\n",
+      "hp": "3123131",
+      "angkatan": "2018",
+      "status": "aktif"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
