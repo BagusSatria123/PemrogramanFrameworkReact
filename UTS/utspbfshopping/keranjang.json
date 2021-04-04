@@ -1,0 +1,34 @@
+{
+  "keranjang": [
+    {
+      "id": 1617292231276,
+      "namaproduk": "SETRIKA PHILIPS HD1172 / HD 1172 BEST SELLER!",
+      "harga": 1879000,
+      "stock": 1
+    },
+    {
+      "id": 1617374706320,
+      "namaproduk": "Setrika ELECTROLUX EDI 2004 / EDI2004",
+      "harga": 2595000,
+      "stock": 1
+    },
+    {
+      "id": 1617292235016,
+      "namaproduk": "Setrika Gosokan Turbo by Philips EHL3038 Anti Lengket - Ungu",
+      "harga": 989000,
+      "stock": 1
+    },
+    {
+      "id": 1617374701638,
+      "namaproduk": "PHILIPS Dry Iron GC122 Setrika - GC-122 Garansi resmi GC 122 - Hijau",
+      "harga": 799000,
+      "stock": 1
+    },
+    {
+      "id": 1617292231276,
+      "namaproduk": "Miyako Setrika - EI1008M Purple",
+      "harga": 1165000,
+      "stock": 1
+    }
+  ]
+}

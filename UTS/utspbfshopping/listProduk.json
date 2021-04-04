@@ -1,0 +1,74 @@
+{
+  "barang": [
+    {
+      "id": 1,
+      "namaproduk": "SETRIKA PHILIPS HD1172 / HD 1172 BEST SELLER!",
+      "harga": 1879000,
+      "gambar": "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/3/3/6a04e81b-72db-4874-bef5-2c79ce2952a3.jpg.webp?ect=4g",
+      "stock": 1
+    },
+    {
+      "id": 2,
+      "namaproduk": "Setrika ELECTROLUX EDI 2004 / EDI2004",
+      "harga": 2595000,
+      "gambar": "https://images.tokopedia.net/img/cache/100-square/hDjmkQ/2020/11/25/e13c32b3-e620-483b-8f25-6efe5f6dba21.jpg.webp?ect=4g",
+      "stock": 1
+    },
+    {
+      "id": 3,
+      "namaproduk": "Maspion EX-1010 Blacberry Setrika Listrik Iron Gosokan Baju Murah",
+      "harga": 1299000,
+      "gambar": "https://images.tokopedia.net/img/cache/100-square/attachment/2021/3/31/65580410/65580410_ccd51374-3d7e-464b-9b1a-ce9690e04a78.jpg.webp?ect=4g",
+      "stock": 1
+    },
+    {
+      "id": 4,
+      "namaproduk": "Setrika Gosokan Turbo by Philips EHL3038 Anti Lengket - Ungu",
+      "harga": 989000,
+      "gambar": "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/1/7/07a67e54-c157-4c22-b0cb-b08191059d1d.jpg.webp?ect=4g",
+      "stock": 1
+    },
+    {
+      "id": 5,
+      "namaproduk": "Maspion Setrika HA-365 Hijab Series",
+      "harga": 800000,
+      "gambar": "https://images.tokopedia.net/img/cache/100-square/attachment/2020/8/14/66236640/66236640_24571650-b6f3-476f-9882-05989843a04b.jpg.webp?ect=4g",
+      "stock": 1
+    },
+    {
+      "id": 6,
+      "namaproduk": "PHILIPS Dry Iron GC122 Setrika - GC-122 Garansi resmi GC 122 - Hijau",
+      "harga": 799000,
+      "gambar": "https://images.tokopedia.net/img/cache/100-square/product-1/2018/5/1/3818493/3818493_9df5cd45-9849-4879-86dc-9629dcd9eca2_800_800.jpg.webp?ect=4g",
+      "stock": 1
+    },
+    {
+      "id": 7,
+      "namaproduk": "Setrika Philips Affinia Dry Iron GC160 Gosokan Philips GC 160 Original",
+      "harga": 999000,
+      "gambar": "https://images.tokopedia.net/img/cache/100-square/product-1/2020/5/2/1009310/1009310_e494d2cb-47c9-4df5-b425-45144431059c_715_715.jpg.webp?ect=4g",
+      "stock": 1
+    },
+    {
+      "id": 8,
+      "namaproduk": "Miyako Setrika - EI1008M Purple",
+      "harga": 1165000,
+      "gambar": "https://images.tokopedia.net/img/cache/100-square/product-1/2020/10/7/24842807/24842807_a93e3303-1e93-4fa5-9bc9-ce7fa01f8cf0_1000_1000.webp?ect=4g",
+      "stock": 1
+    },
+    {
+      "id": 9,
+      "namaproduk": "Gosokan - Setrika Uap WEIJIE Geser WJ-600H Grade AAA",
+      "harga": 2000000,
+      "gambar": "https://images.tokopedia.net/img/cache/100-square/product-1/2019/10/28/9839882/9839882_fe131d1d-b3c7-46bd-bdb4-21d5341016f2_790_790.webp?ect=4g",
+      "stock": 1
+    },
+    {
+      "id": 10,
+      "namaproduk": "Cosmos CIS-418 - Setrika Listrik",
+      "harga": 1500000,
+      "gambar": "https://images.tokopedia.net/img/cache/100-square/attachment/2020/8/14/66236640/66236640_5c96e646-8e73-4a95-b0c0-0c52f0c1dce5.jpg.webp?ect=4g",
+      "stock": 1
+    }
+  ]
+}
