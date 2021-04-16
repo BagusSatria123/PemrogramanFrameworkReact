@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "NIM": 180823453,
+      "id": 1,
+      "nama": "Mahasiswa 1",
+      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "hp": "081802023249",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "NIM": 180823453,
+      "id": 2,
+      "nama": "Mahasiswa 2",
+      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "hp": "081802023249",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "NIM": 1,
+      "id": 1618503765462,
+      "nama": "bagus",
+      "alamat": "daodkaod\n",
+      "hp": "0812",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "NIM": 1,
+      "id": 1618503778685,
+      "nama": "bagus1",
+      "alamat": "daodkaod\ndadadadad",
+      "hp": "08122",
+      "angkatan": "2019",
+      "status": "aktif"
+    },
+    {
+      "NIM": 1,
+      "id": 1618503790069,
+      "nama": "bagus2",
+      "alamat": "daodkaod\ndadadadadadadadaddad",
+      "hp": "081223",
+      "angkatan": "2020",
+      "status": "aktif"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
