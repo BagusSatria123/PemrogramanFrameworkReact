@@ -1,0 +1,64 @@
+[debug] [2021-04-26T01:39:50.894Z] ----------------------------------------------------------------------
+[debug] [2021-04-26T01:39:50.896Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ROG SERIES\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-04-26T01:39:50.896Z] CLI Version:   9.10.0
+[debug] [2021-04-26T01:39:50.896Z] Platform:      win32
+[debug] [2021-04-26T01:39:50.896Z] Node Version:  v14.16.1
+[debug] [2021-04-26T01:39:50.897Z] Time:          Mon Apr 26 2021 08:39:50 GMT+0700 (Indochina Time)
+[debug] [2021-04-26T01:39:50.898Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-26T01:39:50.908Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-26T01:39:50.908Z] > authorizing via signed-in user (satriabagusputra123@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\TUGAS SEKOLAH      BAGUS SATRIA\KULIAH\Semester 6\Pemrograman Framework\Pertemuan11\Script2\my-app
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  .firebaserc already has a default project, using login2-a5beb. 
+[debug] [2021-04-26T01:40:04.376Z] > refreshing access token with scopes: []
+[debug] [2021-04-26T01:40:04.376Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2021-04-26T01:40:04.647Z] <<< HTTP RESPONSE 200 {"date":"Mon, 26 Apr 2021 01:40:04 GMT","pragma":"no-cache","cache-control":"no-cache, no-store, max-age=0, must-revalidate","expires":"Mon, 01 Jan 1990 00:00:00 GMT","content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2021-04-26T01:40:04.703Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/login2-a5beb [none]
+[debug] [2021-04-26T01:40:05.079Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/login2-a5beb 200
+[debug] [2021-04-26T01:40:05.080Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/login2-a5beb {"projectId":"login2-a5beb","projectNumber":"191295623080","displayName":"login2","name":"projects/login2-a5beb","resources":{"hostingSite":"login2-a5beb","storageBucket":"login2-a5beb.appspot.com","locationId":"us-central"},"state":"ACTIVE"}
+[info] 
+=== Firestore Setup
+[debug] [2021-04-26T01:40:05.085Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2021-04-26T01:40:05.086Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2021-04-26T01:40:05.262Z] <<< HTTP RESPONSE 200 {"pragma":"no-cache","date":"Mon, 26 Apr 2021 01:40:05 GMT","expires":"Mon, 01 Jan 1990 00:00:00 GMT","cache-control":"no-cache, no-store, max-age=0, must-revalidate","content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2021-04-26T01:40:05.322Z] >>> HTTP REQUEST GET https://serviceusage.googleapis.com/v1/projects/login2-a5beb/services/firestore.googleapis.com  
+ 
+[debug] [2021-04-26T01:40:06.819Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 26 Apr 2021 01:40:07 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2021-04-26T01:40:06.821Z] >>> HTTP REQUEST GET https://appengine.googleapis.com/v1/apps/login2-a5beb  
+ 
+[debug] [2021-04-26T01:40:07.424Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 26 Apr 2021 01:40:07 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2021-04-26T01:40:07.425Z] database_type: CLOUD_FIRESTORE
+[debug] [2021-04-26T01:40:07.427Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-26T01:40:07.427Z] > authorizing via signed-in user (satriabagusputra123@gmail.com)
+[debug] [2021-04-26T01:40:07.427Z] [iam] checking project login2-a5beb for permissions ["firebase.projects.get"]
+[debug] [2021-04-26T01:40:07.429Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/login2-a5beb:testIamPermissions  
+ {"permissions":["firebase.projects.get"]}
+[debug] [2021-04-26T01:40:08.667Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 26 Apr 2021 01:40:08 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=947","alt-svc":"h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] 
+[info] Firestore Security Rules allow you to define how and when to allow
+[info] requests. You can keep these rules in your project directory
+[info] and publish them with firebase deploy.
+[info] 
